@@ -1,6 +1,5 @@
 ### Balluh
 go enthusiast
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=balluh&layout=compact&hide=html&bg_color=292828&text_color=d4be98&icon_color=ea6962&title_color=ddc7a1&border_color=d4be98&border_radius=10)
 <img src="https://a.pomf.cat/wfxksr.png" width=50>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=balluh&hide_title=true&hide_border=true&layout=compact&hide=html&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
